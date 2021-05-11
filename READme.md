@@ -35,3 +35,5 @@ Spritely by Artlogic
 jQuerty UI
 jQuerty Transit by Rico Sta. Cruz
 A* (A-Star) algorithm function by Andrea Giammarchi
+
+Play the game at: https://adiyenuubarii.github.io/Escape-the-House/
